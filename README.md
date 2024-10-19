@@ -17,7 +17,7 @@ python viewbot.py
 ```
 
 <h2>Does it work? </h2><br>
-[![Yes-It-Does.png](https://i.postimg.cc/2S1yknKB/Yes-It-Does.png)](https://postimg.cc/21frTLmz)
+[Yes-It-Does.png](https://postimg.cc/21frTLmz)
 
 <h2>WARNING</h2>
 This is intended for EDUCATIONAL purposes only. I'm not responsible for anything you do with this tool or anything that happens to you for using it.
