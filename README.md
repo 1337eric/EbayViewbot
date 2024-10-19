@@ -1,13 +1,13 @@
 # EbayViewbot
 
-<h2>Proof Of Concept</h2>
+## Proof Of Concept
 - The more views you have on an eBay listing, the higher it shows while searching for said item in the results
 
-<h2>How it works: </h2>
+## How it works:
 - User acquires HTTP/HTTPS proxies, inputs URL, desired amount of views, and the maximum amount of threads to run at once
 - Threads created, UserAgent generated, the request will made with a random proxy from list
 
-<h2>Usage: </h2>
+## Usage:
 - First, get HTTP/HTTPS proxies in the format IP:PORT then put them line-by-line in the file proxies.txt
 - Run the commands below:
 ```sh
@@ -16,8 +16,8 @@ pip install requests
 python viewbot.py
 ```
 
-<h2>Does it work? </h2><br>
-[![Yes-It-Does.png](https://i.postimg.cc/2S1yknKB/Yes-It-Does.png)](https://postimg.cc/21frTLmz)
+## Does it work?
+![Yes-It-Does](https://i.postimg.cc/2S1yknKB/Yes-It-Does.png)
 
-<h2>WARNING</h2>
+## WARNING
 This is intended for EDUCATIONAL purposes only. I'm not responsible for anything you do with this tool or anything that happens to you for using it.
