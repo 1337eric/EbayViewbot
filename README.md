@@ -16,7 +16,6 @@ python viewbot.py
 ```
 
 Does it work?
+[![YesItDoes](https://i.postimg.cc/tTY2DSS4/IMG-0777.webp)](https://postimg.cc/34QXxBQs)
 
-
-
-This is intended for EDUCATIONAL purposes only
+This is intended for EDUCATIONAL purposes only. I'm not responsible for anything you do with this tool or anything that happens to you for using it.
